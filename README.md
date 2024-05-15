@@ -16,7 +16,7 @@
 
 ## Features
 * Adding, Editing, deleting and fetching Pokemons, Owners, Countries and Categoires</br>
-* Searching/br> 
+* Searching</br> 
 * Reviewing</br>
 
 
